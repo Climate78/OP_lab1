@@ -1,0 +1,33 @@
+html{
+background: #B4C1D1;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top:300px;
+}
+
+
+main {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0;
+border-style: solid;
+background: #B3D9CE;
+border-color: #47369B;
+width: 600px;
+height: 200px;
+margin:0 auto;
+}
+
+.btns{
+background: #337CDB;
+display: inline-block;
+padding: 10px;
+border-style: solid;
+border-radius: 10px;
+margin-left: 80px;
+}
